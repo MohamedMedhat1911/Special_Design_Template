@@ -152,7 +152,6 @@ a {
   transform: translateY(-50%);
   width: 40px;
   z-index: 1000;
-  display: none;
 }
 .nav-bullets .bullet {
   width: 20px;
