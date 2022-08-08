@@ -25,6 +25,7 @@ function randomizeImgs() {
     }, 5000);
   }
 }
+randomizeImgs();
 // Local Storage Color Check
 if (localStorage.getItem("color_option") !== null) {
   document.documentElement.style.setProperty(
